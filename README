@@ -1,0 +1,22 @@
+./xProj
+-------
+xCode Project for the Obj-C iPhone client
+
+Done:
+All basic features - XML parsing, UI and Video playback.
+
+Todo:
+*Add a "featured" icon
+*Add a "rating" feedback option
+
+
+
+./Server Side
+-------------
+Done:
+*query.php - The script to query the database and generate an XML file
+
+Todo:
+*gendb.php - Generates the MySQL database this relies upon
+
+*addrec.php - A simple form to add records into the database
