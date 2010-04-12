@@ -1,0 +1,13 @@
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:13: error: no declaration of property 'type' found in the interface
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:14: error: no declaration of property 'modifier' found in the interface
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:16: error: expected ')' before 'InstructionType'
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m: In function '-[Instruction initWithType:modifier:]':
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:21: error: 'type' undeclared (first use in this function)
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:21: error: (Each undeclared identifier is reported only once
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:21: error: for each function it appears in.)
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:22: error: 'modifier' undeclared (first use in this function)
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m: In function '-[Instruction description]':
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:30: error: 'type' undeclared (first use in this function)
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:30: error: 'InstructionTypeSwipe' undeclared (first use in this function)
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:31: error: 'modifier' undeclared (first use in this function)
+/Users/moddy/Desktop/iPhone Development/vodCastIMG/Classes/Instruction.m:34: warning: control reaches end of non-void function
